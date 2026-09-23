@@ -2,7 +2,7 @@
 
 # 🚁 DronAid-ResQ — Ground Control Station
 
-### Smart India Hackathon 2026 &nbsp;·&nbsp; Team DronAid-ResQ &nbsp;·&nbsp; Problem ID: SIH26177
+### Smart India Hackathon 2026 &nbsp;·&nbsp; Team DronAid-ResQ &nbsp;·&nbsp; 
 
 A working Ground Control Station (GCS) that coordinates heterogeneous rescue teams — scout drones, payload drones, and ground rovers — using an offline-first AI pipeline that scores disaster zones in real time and autonomously dispatches assets without any cloud or internet dependency.
 
